@@ -1,38 +1,30 @@
 [
     {
-        "name": "Event Allotment",
-        "timestamp": "2026-02-04T23:56:00"
+        "name": "Registration Ends",
+        "timestamp": "2026-02-05T12:00:00"
     },
     {
-        "name": "Hackathon Begins",
-        "timestamp": "2026-02-05T00:15:00"
+        "name": "Hackathon Starts",
+        "timestamp": "2026-02-05T12:30:00"
     },
     {
         "name": "Lunch Break",
-        "timestamp": "2026-02-05T13:00:00"
+        "timestamp": "2026-02-05T14:00:00"
     },
     {
         "name": "Mentoring Round 1",
-        "timestamp": "2026-02-05T16:00:00"
+        "timestamp": "2026-02-05T15:00:00"
     },
     {
         "name": "Dinner",
-        "timestamp": "2026-02-05T20:00:00"
-    },
-    {
-        "name": "Midnight Snack",
-        "timestamp": "2026-02-06T00:00:00"
+        "timestamp": "2026-02-05T18:30:00"
     },
     {
         "name": "Breakfast",
         "timestamp": "2026-02-06T08:00:00"
     },
     {
-        "name": "Submission Deadline",
-        "timestamp": "2026-02-06T16:00:00"
-    },
-    {
         "name": "Closing Ceremony",
-        "timestamp": "2026-02-06T18:00:00"
+        "timestamp": "2026-02-06T15:00:00"
     }
 ]
